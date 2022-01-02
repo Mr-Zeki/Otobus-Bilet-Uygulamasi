@@ -1,0 +1,42 @@
+input{
+    color:grey;
+    font-size: 30px;
+    border: 3px inset wheat;
+    font-family:initial;
+    background-color:lightyellow;
+    position: absolute;
+    padding: 8px;
+}
+.eposta{
+    top: 425px;
+    left: 550px;
+}
+.isim{
+    top: 200px;
+    left:300px;
+}
+.soyisim{
+    top: 200px;
+    left: 800px;
+}
+.tel{
+    top: 325px;
+    left: 300px;
+}
+.sifre{
+    top: 325px;
+    left: 800px;
+}
+.buton{
+    top: 525px;
+    left: 675px;
+}
+img{
+    position: absolute;
+    top: 75px;
+    left: 640px;
+    padding: 8px;
+    margin: -100px;
+    width: 350px;
+    height: 200px;
+}

@@ -1,0 +1,39 @@
+select{
+    margin:16px;
+    padding: 14px;
+    background-color: linen;
+    border: 4px ridge lightyellow;
+    
+}
+div{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    
+}
+input{
+    text-align: center;
+    font-size: 15px;
+    margin: 18px;
+    font-family: Verdana, Tahoma, sans-serif;
+    background-color: linen;
+    border: 4px ridge lightyellow;
+
+}
+label{
+    padding: 3px;
+    font-size: 25px;
+    font-family:Verdana,Tahoma, sans-serif;
+    
+}
+img{
+    width: 100%;
+    height: auto;
+    opacity: 1.5;
+}
+body{
+    background-color: lightgoldenrodyellow;
+}
+
+    
+

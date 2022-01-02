@@ -1,0 +1,169 @@
+button{
+    background-color: white; 
+    color: black; 
+    border: 2px solid #4CAF50;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    width: 120px;
+    height: 60px;
+}
+
+button:hover{
+    background-color: #4CAF50;
+  color: white;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.buton1{
+    position: absolute;
+    top: 80px;
+    left: 400px;
+}
+.buton2{
+    position: absolute;
+    top: 80px;
+    left: 800px;
+}
+.buton3{
+    position: absolute;
+    top: 80px;
+    left: 950px;
+}
+.buton4{
+   position: absolute;
+   top: 160px;
+   left: 400px;
+}
+.buton5{
+    position: absolute;
+    top: 160px;
+    left: 800px;
+}
+.buton6{
+    position: absolute;
+    top: 160px;
+    left: 950px;
+}
+.buton7{
+    position: absolute;
+    top: 240px;
+    left: 400px;
+}
+.buton8{
+    position: absolute;
+    top: 240px;
+    left: 800px;
+}
+.buton9{
+    position: absolute;
+    top: 240px;
+    left: 950px;
+}
+.buton10{
+    position: absolute;
+    top: 320px;
+    left: 400px;
+}
+.buton12{
+    position: absolute;
+    top: 400px;
+    left: 800px;
+}
+.buton13{
+    position: absolute;
+    top: 400px;
+    left: 950px;
+}
+.buton11{
+    position: absolute;
+    top: 400px;
+    left: 400px;
+}
+.buton15{
+    position: absolute;
+    top: 480px;
+    left: 800px;
+}
+.buton16{
+    position: absolute;
+    top: 480px;
+    left: 950px;
+}
+.buton14{
+    position: absolute;
+    top: 480px;
+    left: 400px;
+}
+.buton18{
+    position: absolute;
+    top: 560px;
+    left: 800px;
+}
+.buton19{
+    position: absolute;
+    top: 560px;
+    left: 950px;
+}
+.buton17{
+    position: absolute;
+    top: 560px;
+    left: 400px;
+}
+.buton20{
+    position: absolute;
+    top: 640px;
+    left: 400px;
+}
+.button {
+    display: inline-block;
+    border-radius: 4px;
+    background-color: #f4511e;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    width: 220px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+    position: absolute;
+    top: 650px;
+    left: 1200px;
+    height: 70px;
+  }
+  
+  .button span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  
+  .button span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  
+  .button:hover span {
+    padding-right: 25px;
+  }
+  
+  .button:hover span:after {
+    opacity: 1;
+    right: 0;
+  }
+  body{
+      background-color: lightgoldenrodyellow;
+  }
+  
+  

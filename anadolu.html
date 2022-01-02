@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anadolu</title>
+    <link rel="stylesheet" href="firmalar.css">
+</head>
+<body>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC9yO5fBuqE4ZVY37or3ZNOR20n08VGKUlbw&usqp=CAU">
+    <form id="form1" name="form1" method="post" action="aseferler.php">
+        <div class="flex-container" >
+        <div>
+            <input type="radio" name="gender"/>Tek Yön<br/>
+            <input type="radio" checked="checked" name="gender"/>Gidiş-Dönüş<br/>
+            <label>Gidiş:</label>
+            <input type="date" name="gidiş" value="2021-12-21">
+            <label>Dönüş:</label>
+            <input type="date" name="dönüş" value="2021-12-22">
+            <label>Nerden:</label>
+        <select name="anerden">
+            
+
+            <option >İstanbul</option>
+        
+            <option selected="selected">İzmir</option>
+        
+            <option>Ankara</option>
+        
+        </select>
+        </div>
+        
+    
+   
+        <div>
+            <label>Nereye:</label>
+        <select name="anereye">
+            <option selected="selected">İstanbul</option>
+            <option>İzmir</option>
+            <option>Ankara</option>
+            <input type="submit" name="buton" id="buton" value="Seferleri Göster" />
+        </select>
+        </div>
+        </div>
+        </form>
+        
+      
+    
+</body>
+</html>

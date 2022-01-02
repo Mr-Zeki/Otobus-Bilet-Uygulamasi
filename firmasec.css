@@ -1,0 +1,53 @@
+div{
+    border: 2px outset wheat;
+    border-radius: 8px;
+    background-color:white;
+    
+    
+}
+
+body{
+    background-color:lightgoldenrodyellow;
+}
+.topleft{
+    position: absolute;
+    top: 250px;
+    left: 350px;
+    font-size: 18px;
+    padding: 8px;
+}
+.topright{
+    position: absolute;
+    top: 250px;
+    right: 350px;
+    font-size: 18px;
+    padding: 10px;
+    
+}
+img{
+    width: 100%;
+    height: auto;
+    opacity: 0.8;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    border: 4px inset wheat;
+    background-color: linen;
+    padding: 8px;
+    margin: 1px;
+    color:grey;
+    font-family:initial;
+    background-color:lightyellow;
+}
+.kamilkoc{
+    width: 225px;
+    height: 125px;
+    
+}
+.anadolu{
+    width: 217px;
+    height: 125px;
+    
+}
+

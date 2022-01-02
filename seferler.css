@@ -1,0 +1,19 @@
+h1{
+    color:grey;
+    font-size: 50px;
+    border: 3px inset wheat;
+    font-family:initial;
+    background-color:lightyellow;
+}
+button{
+    font-size: 30px;
+    background-color: cadetblue;
+    color:lightyellow;
+    border: 4px outset lightskyblue;
+    font-style: italic;
+    font-weight: bold;
+
+}
+body{
+    background-color: lightgoldenrodyellow;
+}
